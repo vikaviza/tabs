@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-right: 20%;
+
+}
+
+h1 {
+    font-family: Silkscreen;
+    color: #00ADB5;
+  }
+
+.dogo {
+    width: 150px;
+    height: 150px;
+    transition: 0.3s;
+}

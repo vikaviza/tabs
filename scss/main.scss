@@ -1,0 +1,36 @@
+main {
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-left: 170px;
+    img {
+        width: 600px;
+        height: 800px;
+    }
+}
+
+.ma {
+    width: 1100px;
+    height: 800px;
+    text-align: center;
+}
+
+.tab {
+    display: none;
+    border: 20px outset #00ADB5;
+    border-left: none;
+    border-right: none;
+    border-radius: 20px;
+    text-align: center;
+    opacity: 0.5;
+    transition: 0.8s;
+}
+
+p {
+    margin-right: 500px;
+    margin-left: 500px;
+    line-height: 1.6;
+    font-size: large;
+}
